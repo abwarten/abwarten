@@ -1,2 +1,2 @@
-## Gyung Yeol,
+<sub>Gyung Yeol,</sub>
 ## Insatiably curious.
