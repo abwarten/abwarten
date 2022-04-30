@@ -1,5 +1,9 @@
 # 설정 방법
 
+### Inspiration
+
+https://www.lovefrom.com/
+
 ### Animation
 
 Figma Prototype을 녹화 한 후 파일로 저장
