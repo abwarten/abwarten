@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="./Gyung Yeol Insatiably curious. Javascript Typescript React NextJs NestJs Flutter.svg">
+    <img src="./Component 1.svg">
 </div>
