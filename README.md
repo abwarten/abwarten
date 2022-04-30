@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="./github.svg" height="1400px">
+    <img src="./github.svg" height="400px">
 </div>
