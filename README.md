@@ -1,4 +1,1 @@
----
-mainfont: "Helvetica"
----
-Gyung Yeol
+𝗚𝘆𝘂𝗻𝗴 𝗬𝗲𝗼𝗹
