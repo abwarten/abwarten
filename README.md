@@ -1,4 +1,4 @@
-### Hi there 👋
+### I am Park Gyung Yeol, who likes to make things. I am currently developing the T Map electric vehicle platform at ait-story company.
 
 <!--
 **ParkGyungYeol/ParkGyungYeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
