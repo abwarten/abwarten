@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="./github-gypark.gif">
+    <img src="./github-gypark.webp">
 </div>
