@@ -1,2 +1,1 @@
-<p>Gyung Yeol</p>
-<p>is Insatiably curious.</p>
+<img src="./Gyung Yeol Insatiably curious. Javascript Typescript React NextJs NestJs Flutter.svg">
